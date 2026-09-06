@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Carregador Duplo Turbo",
+    "price": "R$ 39,90",
+    "image": "/carregadorjoy.jpg",
+    "affiliateLink": "https://s.shopee.com.br/80CJkClPn2",
+    "category": "Games"
+  },
+  {
+    "id": 2,
+    "title": "Caminhão Dinossauro",
+    "price": "R$ 59,90",
+    "image": "/caminhaodino.jpg",
+    "affiliateLink": "https://s.shopee.com.br/AUteiZqYev",
+    "category": "Brinquedos"
+  },
+  {
+    "id": 3,
+    "title": "Jogo de Cama",
+    "price": "R$ 12,50",
+    "image": "/jogocama.jpg",
+    "affiliateLink": "https://s.shopee.com.br/6AklrUxtKt",
+    "category": "Casa e Cama"
+  },
+  {
+    "id": 4,
+    "title": "Jogo De Chave Catraca",
+    "price": "R$ 29,99",
+    "image": "/ferramentas.jpg",
+    "affiliateLink": "https://s.shopee.com.br/9AOOxiUCe0",
+    "category": "Ferramentas"
+  },
+  {
+    "id": 5,
+    "title": "T800 Ultra Smart Watch Esportivo",
+    "price": "R$ 45,90",
+    "image": "/relogio.jpg",
+    "affiliateLink": "https://s.shopee.com.br/BTaHkqpuK",
+    "category": "Fitness Trackers"
+  },
+  {
+    "id": 6,
+    "title": "Extensão Filtro De Linha",
+    "price": "R$ 29,98",
+    "image": "/filtrodelinha.jpg",
+    "affiliateLink": "https://s.shopee.com.br/5VV6e6RWre",
+    "category": "Tomadas Elétricas e Extensões"
+  },
+  {
+    "id": 7,
+    "title": "Mini Barbeador Elétrico",
+    "price": "R$ 14,99",
+    "image": "/barbeador.jpg",
+    "affiliateLink": "https://s.shopee.com.br/112hI2zPL7",
+    "category": "Cuidados Pessoais"
+  },
+  {
+    "id": 8,
+    "title": "Processador Elétrico",
+    "price": "R$ 66,99",
+    "image": "/processador.jpg",
+    "affiliateLink": "https://s.shopee.com.br/5AsGFrNyZ3",
+    "category": "Utensílios de Cozinha"
+  }
+]
