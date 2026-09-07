@@ -89,7 +89,7 @@ export default function Home() {
                       rel="noopener noreferrer"
                       className="block w-full text-center bg-gradient-to-r from-orange-500 to-amber-500 hover:from-orange-600 hover:to-amber-600 text-slate-950 font-extrabold py-3 px-4 rounded-xl transition-all duration-200 shadow-lg shadow-orange-500/20 hover:scale-[1.02]"
                     >
-                      Garantir Desconto 🚀
+                      Aproveite agora Link na Bios 🚀
                     </a>
                   </div>
                 </div>
