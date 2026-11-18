@@ -50,7 +50,7 @@ export default function Catalog({ products }: { products: Product[] }) {
   return (
     <section>
       {/* Filtro por categoria */}
-      <div className="-mx-4 px-4 mb-6 flex gap-2 overflow-x-auto pb-2 sm:flex-wrap sm:overflow-visible">
+      <div className="-mx-4 px-4 mb-6 flex gap-2 overflow-x-auto pb-2 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden sm:flex-wrap sm:overflow-visible">
         {categories.map((cat) => {
           const active = cat === category;
           return (
