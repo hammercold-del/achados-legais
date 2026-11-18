@@ -37,7 +37,8 @@
     "price": "R$ 59,99",
     "image": "/calibrador.jpg",
     "affiliateLink": "https://s.shopee.com.br/113kspzuuj",
-    "category": "Automotivo e Moto"
+    "category": "Automotivo e Moto",
+    "oldPrice": "R$ 129,90"
   },
   {
     "id": 10,
@@ -57,7 +58,7 @@
   },
   {
     "id": 1,
-    "title": "Power Bank Portátil  60000mah Turbo 100W Rápido",
+    "title": "Power Bank Portátil 60000mAh Turbo 100W Carregamento Rápido com Lanterna",
     "price": "R$ 270,75",
     "image": "/powerbank.jpg",
     "affiliateLink": "https://s.shopee.com.br/2VrWlGZ1dD",
@@ -65,15 +66,15 @@
   },
   {
     "id": 2,
-    "title": "Manta Asfáltica",
+    "title": "Manta Asfáltica Autoadesiva Aluminizada 60 cm x 10 m Impermeabilizante",
     "price": "R$ 95,00",
     "image": "/manta.jpg",
     "affiliateLink": "https://s.shopee.com.br/1LgFueqgAo",
-    "category": "Contrução"
+    "category": "Construção"
   },
   {
     "id": 3,
-    "title": "Jogo de Cama",
+    "title": "Jogo de Cama com Fronhas – Lençol Liso",
     "price": "R$ 12,50",
     "image": "/jogocama.jpg",
     "affiliateLink": "https://s.shopee.com.br/6AklrUxtKt",
@@ -81,7 +82,7 @@
   },
   {
     "id": 4,
-    "title": "Jogo De Chave Catraca",
+    "title": "Jogo de Chaves Catraca e Soquetes 46 Peças com Maleta",
     "price": "R$ 29,99",
     "image": "/ferramentas.jpg",
     "affiliateLink": "https://s.shopee.com.br/9AOOxiUCe0",
@@ -89,15 +90,15 @@
   },
   {
     "id": 5,
-    "title": "T800 Ultra Smart Watch Esportivo",
+    "title": "Smartwatch T800 Ultra Esportivo com Pulseiras Extras",
     "price": "R$ 45,90",
     "image": "/relogio.jpg",
     "affiliateLink": "https://s.shopee.com.br/BTaHkqpuK",
-    "category": "Fitness Trackers"
+    "category": "Relógios Inteligentes"
   },
   {
     "id": 6,
-    "title": "Extensão Filtro De Linha",
+    "title": "Filtro de Linha / Extensão com 5 Tomadas e Entradas USB",
     "price": "R$ 29,98",
     "image": "/filtrodelinha.jpg",
     "affiliateLink": "https://s.shopee.com.br/5VV6e6RWre",
@@ -105,7 +106,7 @@
   },
   {
     "id": 7,
-    "title": "Mini Barbeador Elétrico",
+    "title": "Mini Barbeador Elétrico Portátil Recarregável USB",
     "price": "R$ 14,99",
     "image": "/barbeador.jpg",
     "affiliateLink": "https://s.shopee.com.br/112hI2zPL7",
