@@ -56,6 +56,28 @@ const CATEGORY_ICONS: Record<string, string> = {
   "Cuidados Pessoais": "🪒",
 };
 
+// Ícone da marca: lupa de "achados" com brilho (mesmo desenho do app/icon.svg)
+function LogoIcon({ className }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 64 64" className={className} aria-hidden="true">
+      <defs>
+        <linearGradient id="al-logo-g" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stopColor="#ff7337" />
+          <stop offset="1" stopColor="#e8361b" />
+        </linearGradient>
+      </defs>
+      <rect width="64" height="64" rx="16" fill="url(#al-logo-g)" />
+      <circle cx="28" cy="28" r="15" fill="none" stroke="#fff" strokeWidth={6} />
+      <path d="M39.5 39.5 50 50" stroke="#fff" strokeWidth={7} strokeLinecap="round" />
+      <path
+        d="M28 17.5Q29.6 26.4 38.5 28Q29.6 29.6 28 38.5Q26.4 29.6 17.5 28Q26.4 26.4 28 17.5Z"
+        fill="#ffd424"
+      />
+      <circle cx="48" cy="15" r="3" fill="#ffd424" />
+    </svg>
+  );
+}
+
 const NEW_COUNT = 4; // os produtos mais recentes (maior id) ganham o selo "Novo"
 const HIGHLIGHT_COUNT = 6; // quantos aparecem na faixa "Achados do dia"
 
@@ -191,9 +213,7 @@ export default function Catalog({
 
           <div className="flex items-center gap-3 py-3 sm:gap-8 sm:py-4">
             <a href="#" className="flex shrink-0 items-center gap-2" aria-label="Achados Legais – início">
-              <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-white text-lg font-black text-[#ee4d2d] sm:h-11 sm:w-11 sm:text-xl">
-                AL
-              </span>
+              <LogoIcon className="h-9 w-9 rounded-xl ring-2 ring-white/80 sm:h-11 sm:w-11" />
               <span className="hidden text-2xl font-semibold leading-none sm:block">
                 Achados Legais
               </span>
